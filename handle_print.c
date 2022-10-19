@@ -9,7 +9,7 @@
  * @flags: Calcs active flags
  * @width: get width.
  * @precision: Precision spec
- * @size: Size specifier
+ * @size: Specifies size
  * Return: 1 or 2;
 */
 
